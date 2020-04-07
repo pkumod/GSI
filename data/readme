@@ -1,0 +1,29 @@
+#### Introduction
+
+each data file and each query file both contain only one graph.
+In each graph, vertex has its ID and label, edges are directed and labeled.
+(parallel edges and self loops are not allowed, and separated query graphs are not accepted)
+When a query graph is separated into several parts which are totally not connected to each other, 
+the results can be acquired by do a Cartesian product after the results of each part are found.
+
+---
+
+#### Format
+
+t # 0
+numVertex numEdges MaximumVertexLabel MaximumEdgeLabel
+v 0 1
+v 1 2
+...
+e 0 1 1
+e 0 2 3
+...
+t # -1
+
+---
+
+#### NOTICE
+
+1. all labels begin from 1
+2. vertex ID begin from 0 and grows in order
+
