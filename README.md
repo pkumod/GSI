@@ -15,7 +15,7 @@ see `data/readme` and `data/*.g`
 
 ---
 
-#### Publish
+#### Publication
 
 Li Zeng, Lei Zou, M. Tamer Özsu, Lin Hu, Fan Zhang. **GSI: GPU-friendly Subgraph Isomorphism**. *International Conference on Data Engineering*, 2020.
 
