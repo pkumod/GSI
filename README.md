@@ -20,3 +20,8 @@ see `data/readme` and `data/*.g`
 Li Zeng, Lei Zou, M. Tamer Özsu, Lin Hu, Fan Zhang. **GSI: GPU-friendly Subgraph Isomorphism**. *International Conference on Data Engineering*, 2020.
 
 ---
+
+#### Others
+
+My implementation of [GunrockSM](https://github.com/bookug/GunrockSM), [GpSM](https://github.com/bookug/GpSM), and [GPU utilities](https://github.com/bookug/gutil).
+
